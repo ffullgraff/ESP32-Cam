@@ -6,12 +6,12 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
-char auth[] = "a2a6bab80f884aea89590d7698599a66";
+char auth[] = "a2a6bab80f884xxxxxxxxxxxxxxxx";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "FFULLHE";
-char pass[] = "mg833857";
+char ssid[] = "Fxxxxxx";
+char pass[] = "pasword";
 
 
 void startCameraServer();
